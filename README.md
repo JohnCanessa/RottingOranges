@@ -7,7 +7,7 @@ Apparently at some point in time asked by Amazon.
 
 If interested in my approach (BFS) please visit the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/10/09/rotting-oranges-in-java/
 
 Hope you have fun generating your solution!
 
